@@ -16,7 +16,6 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     }
 
     alert('Form submitted successfully!');
-    // Here you can add code to send form data to your server
 });
 
 function validateEmail(email) {
